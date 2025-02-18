@@ -1,0 +1,27 @@
+{
+  "name": "character-card-parser",
+  "version": "0.0.1",
+  "main": "character-card-parser.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UpstreetAI/character-card-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UpstreetAI/character-card-parser/issues"
+  },
+  "homepage": "https://github.com/UpstreetAI/character-card-parser#readme",
+  "description": "",
+  "dependencies": {
+    "character-card-utils": "^2.0.3",
+    "exifreader": "^4.26.1",
+    "json5": "^2.2.3",
+    "png-chunk-text": "^1.0.0",
+    "png-chunks-extract": "^1.0.0"
+  }
+}
