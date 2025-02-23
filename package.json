@@ -2,6 +2,7 @@
   "name": "character-card-parser",
   "version": "0.0.1",
   "main": "character-card-parser.mjs",
+  "types": "character-card-parser.d.ts",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
