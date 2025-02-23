@@ -1,6 +1,6 @@
 {
   "name": "character-card-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "character-card-parser.mjs",
   "types": "character-card-parser.d.ts",
   "type": "module",
